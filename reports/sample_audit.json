@@ -1,0 +1,23 @@
+{
+  "total_rows": 11,
+  "missing_columns": [],
+  "missing_values": 1,
+  "missing_record_ids": [
+    104
+  ],
+  "duplicate_rows": 1,
+  "duplicate_record_ids": [
+    103
+  ],
+  "invalid_labels": 1,
+  "invalid_record_ids": [
+    105
+  ],
+  "timestamp_unparsable": 1,
+  "timestamp_out_of_order": 1,
+  "outliers": 1,
+  "outlier_record_ids": [
+    106
+  ],
+  "total_issues": 6
+}
